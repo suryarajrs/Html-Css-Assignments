@@ -1,0 +1,33 @@
+<!-- html code goes here -->
+<h2>Works to do</h2>
+<ol id="ordered-parent" type="A">
+  <li>get up in the morning</li>
+  <li>shopping
+      <ol id="ordered-child" type="a">
+          <li>groceries</li>
+          <li>Drinks</li>
+      </ol>
+  </li>
+  <li>Newton School Assignment</li>
+  <li>Dinner</li>
+
+</ol>
+<h2>Groceries list</h2>
+<ul id="unordered-parent">
+    <li>Coffee</li>
+    <li>Fruits
+        <ul id="unordered-child">
+         <li>Banana</li>
+         <li>Pineapple</li>
+        </ul>
+    </li>
+    <li>Milk</li>
+
+</ul>
+<h2>Drinks List</h2>
+<dl id="descriptive-list">
+    <dt>Black Drink</dt>
+    <dd>Coca Cola and Pepsi</dd>
+    <dt>Orange Drink</dt>
+    <dd>Mirinda, Fanta</dd>
+</dl>
