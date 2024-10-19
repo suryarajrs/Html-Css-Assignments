@@ -43,7 +43,7 @@ You are tired of not being able to complete your tasks on time. This time, you d
 ### Reference Image
 Here's how the lists will appear after coding. Increase the window size to see the data properly:
 
-![Task Lists Example](./path-to-your-image.png)
+![Task Lists Example](./schedulewithlistOutput.png)
 
 ---
 
