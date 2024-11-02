@@ -38,5 +38,7 @@ To apply styles to a given HTML structure, focusing on layout, positioning, and 
       - Should occupy **twice as much space** as other `.article-item` elements with `flex: 2`.
 
 ---
+
+### final output should look like this
 ![73785f0160984cb483ff823891655aa3](https://github.com/user-attachments/assets/222e61af-93fb-4d05-b06a-6366c7e83607)
 
