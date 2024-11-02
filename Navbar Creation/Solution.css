@@ -1,0 +1,20 @@
+/* css code goes here */
+
+.navbar{
+    display:flex;
+    justify-content: space-between;
+    width: 948px;
+    height: 60px;
+    background: linear-gradient(rgb(90, 130, 190),rgb(60, 100, 160) );
+}
+
+.nav-item{
+    font-size: 16px;
+    font-weight: bold;
+    text-transform: uppercase;
+    align-self: center;
+    color: rgb(220, 240, 255);
+    
+}.nav-item:hover{
+    color: rgb(255, 255, 255);
+}
