@@ -1,0 +1,41 @@
+/* css code goes here */
+#main-container{
+    width: 100%;
+}
+
+#header , #footer{
+    display: block;
+    width: 100%;
+    padding: 20px 0;
+    text-align: center;
+}
+#header{
+    background-color: lightgray;
+}
+#footer{
+    background-color: dimgray;
+}
+
+#navbar > .nav-item{
+ display: inline-block;
+ margin: 10px 20px 10px 20px;
+ transition: background-color 0.3s;
+ 
+}
+.nav-item:hover{
+background-color: rgba(0, 0, 0, 0.1);
+}
+
+#content{
+    display: flex;
+    flex-wrap: wrap;
+    gap:16px;
+    
+}
+.article-item{
+    flex: 1;
+    padding: 20px;
+}
+#post1{
+flex-grow: 2;
+}
