@@ -59,3 +59,10 @@ Modify the following to suit your project:
 ---
 
 Happy Designing! 🎨🚀
+
+Demo video - output should look like this
+
+
+https://github.com/user-attachments/assets/e7170c04-75de-4265-ab2a-eb5b47f79657
+
+
